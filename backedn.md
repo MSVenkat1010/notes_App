@@ -12,7 +12,7 @@ for Django:
  create a Project:
  django-admin startproject project_name
 
- enter into the created project_name folder then start the server:
+ Enter into the created project_name folder then start the server:
  python3 manage.py runserver
 
 Now server will start with a generated link which you can access
